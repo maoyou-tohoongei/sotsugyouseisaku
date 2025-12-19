@@ -1,6 +1,6 @@
 .container{
 	@media screen and(max-width: 960px)
-	@media screen and(max-width: 480px)
+	@media screen and(max-width: 320px)
 }
 
 header{
@@ -52,6 +52,7 @@ header{
 .logo{
 	text-align: center;
 }
+
 
 
 
