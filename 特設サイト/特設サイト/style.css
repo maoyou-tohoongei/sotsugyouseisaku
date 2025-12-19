@@ -1,0 +1,49 @@
+header{
+	color: white;
+	background-color: darkred;
+	text-align: center;
+	font-size: 20px;
+	padding: 3px;
+}
+
+.caption{
+	letter-spacing: 10px;
+	text-align: center;
+	line-height: 2;
+	font-size: 50px;
+	font-family: serif;
+}
+
+.jacket{
+	text-align: center;
+}
+
+.summary{
+	text-align: center;
+	font-size: 18px;
+	background-color: oldlace;
+	padding: 10px;
+	margin: 70px;
+}
+
+.introduction{
+	text-align: center;
+}
+
+.title{
+	text-align: center;
+}
+
+.description{
+	display: flex;
+	font-size: 15px;
+
+}
+
+.desc{
+	margin-left: 20px;
+}
+
+.logo{
+	text-align: center;
+}
