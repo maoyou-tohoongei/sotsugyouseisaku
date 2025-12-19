@@ -1,3 +1,9 @@
+.container{
+	diplay: flex;
+	flex-direction: colum;
+	padding: 15px;
+}
+
 header{
 	color: white;
 	background-color: darkred;
@@ -47,6 +53,7 @@ header{
 .logo{
 	text-align: center;
 }
+
 
 
 
