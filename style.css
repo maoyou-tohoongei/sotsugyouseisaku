@@ -40,6 +40,10 @@ header{
 
 }
 
+.image{
+	margin-right: 5px;
+}
+
 .desc{
 	margin-left: 20px;
 }
@@ -47,6 +51,7 @@ header{
 .logo{
 	text-align: center;
 }
+
 
 
 
