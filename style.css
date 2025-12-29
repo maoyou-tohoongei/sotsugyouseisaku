@@ -2,7 +2,7 @@ header{
 	color: white;
 	background-color: darkred;
 	text-align: center;
-	font-size: 20px;
+	font-size: 30px;
 	padding: 3px;
 }
 
@@ -10,7 +10,7 @@ header{
 	letter-spacing: 10px;
 	text-align: center;
 	line-height: 2;
-	font-size: 50px;
+	font-size: 70px;
 	font-family: serif;
 }
 
@@ -20,7 +20,7 @@ header{
 
 .summary{
 	text-align: center;
-	font-size: 18px;
+	font-size: 20px;
 	background-color: oldlace;
 	padding: 10px;
 }
@@ -47,6 +47,7 @@ header{
 .logo{
 	text-align: center;
 }
+
 
 
 
