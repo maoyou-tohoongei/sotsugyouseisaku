@@ -51,7 +51,7 @@ header{
 }
 
 @media screen and (max-width: 1080px){
-	.container{
+	.header{
 		width: 100%;
 	}
 	
@@ -63,6 +63,7 @@ header{
 		display: flex;
 	}
 }
+
 
 
 
